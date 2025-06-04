@@ -9,7 +9,7 @@
 
 </head>
 
-<!-- add your script here -->
+<!-- add your 
 <script>
   window.watsonAssistantChatOptions = {
     integrationID: "90e5e25b-6a80-4511-a600-7b37beb75e75", // The ID of this integration.
@@ -23,7 +23,7 @@
     document.head.appendChild(t);
   });
 </script>
-
+script here -->
 <body></body>
 
 </html>
